@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pars Ping VPN</string>
+    <string name="vpn_service_title">سرویس پارس پینگ فعال است</string>
+    <string name="vpn_connected">متصل شد</string>
+    <string name="vpn_connecting">در حال اتصال…</string>
+    <string name="vpn_disconnected">قطع شد</string>
+    <string name="action_connect">اتصال</string>
+    <string name="action_disconnect">قطع اتصال</string>
+    <string name="custom_theme">تم دلخواه</string>
+    <string name="ping_all">پینگ همه</string>
+</resources>

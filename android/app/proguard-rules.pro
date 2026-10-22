@@ -1,0 +1,3 @@
+-keep class com.wireguard.android.backend.** { *; }
+-dontwarn com.wireguard.android.backend.**
+-keep class com.parsping.vpn.data.model.** { *; }

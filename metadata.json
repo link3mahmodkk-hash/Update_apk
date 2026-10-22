@@ -1,0 +1,6 @@
+{
+  "name": "Pars Ping VPN",
+  "description": "فیلترشکن گیمینگ و پرسرعت پارس پینگ با پشتیبانی اختصاصی WireGuard، VMess، VLESS و Trojan به همراه تم‌های سایبرپانک",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
